@@ -15,6 +15,10 @@ body{
   .logo{
   	margin: 4px;
   }
+.img {
+    height: 100px;
+}
+
 
  nav{
  	  flex: 1;
